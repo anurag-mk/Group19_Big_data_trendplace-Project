@@ -1,5 +1,7 @@
 # Group19_Big_data_trendplace-Project
 
+Members: Arkan Chatterjee, Havish Gutta, Songhan Lei, Jiatong Li, Anurag Mishra
+
 Abstract: 
 Apache Zeppelin is a Web-based multi purpose notebook that enables data-driven,
 interactive data analytics and collaborative documents with popular programming languages such as SQL, Scala, Python, R and more. Our team will focus on the multi-purpose benefits of Zeppelin notebook, which include data ingestion, data discovery, data pipelines and data visualization & collaboration. This key feature could facilitate the big data analytics process by using a sample data pipeline. 
