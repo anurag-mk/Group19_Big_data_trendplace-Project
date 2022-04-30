@@ -15,4 +15,6 @@ This dataset is provided by FIFA which is a sports governance organization with 
 
 Link: https://www.kaggle.com/datasets/stefanoleone992/fifa-21-complete-player-dataset/
 
+Vocie thread presentation link: https://www.youtube.com/watch?v=vMRZk3UXgY4
+
 Tools: Apache Zeppelin, Amazon S3
