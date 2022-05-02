@@ -13,7 +13,7 @@ We will create a Zeppelin notebook data pipeline from Kaggle as our demo to desc
 Dataset: FIFA 21 complete player dataset
 This dataset is provided by FIFA which is a sports governance organization with members all over around the world. The information in this dataset includes the player's name, age, date of birth, salary, abilities value (including shooting, passing, dribbling score), etc. We will load this dataset into Amazon S3, do some basic data preparation and then perform data analysis and build a dashboard with graphs through Apache Zeppelin.
 
-Link: https://www.kaggle.com/datasets/stefanoleone992/fifa-21-complete-player-dataset/
+Dataset Link: https://www.kaggle.com/datasets/stefanoleone992/fifa-21-complete-player-dataset/
 
 Vocie thread presentation link: https://www.youtube.com/watch?v=vMRZk3UXgY4
 
